@@ -1,0 +1,22 @@
+{
+  "name": "typescript_oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qqwwweeeer/Typescript-OOP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qqwwweeeer/Typescript-OOP/issues"
+  },
+  "homepage": "https://github.com/qqwwweeeer/Typescript-OOP#readme",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  }
+}
